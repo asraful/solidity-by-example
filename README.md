@@ -1,6 +1,8 @@
 Solidity By Example
+-------------------
 
 For Windows
+-----------
 
 Run this command from power shaell as Administrator 
 
